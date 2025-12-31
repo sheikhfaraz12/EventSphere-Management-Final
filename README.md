@@ -1,68 +1,73 @@
 🎉 Eventive – Event Management System
 
-Eventive is a full-stack Event Management System designed to simplify the entire event lifecycle — from event creation and promotion to registration, ticketing, and attendee management. The system provides a centralized platform for Organizers and Attendees, ensuring efficiency, transparency, and better user experience.
+Eventive is a full-stack Event Management System designed to simplify and digitize the complete event lifecycle — from event creation and promotion to attendee registration, ticketing, and communication.
+
+This project is developed as part of the Aptech eProject to demonstrate real-world application development using modern web technologies.
 
 📌 Introduction
 
-In today’s fast-paced digital era, managing events using manual or fragmented systems leads to inefficiencies, errors, and poor user engagement. Eventive addresses these challenges by providing an all-in-one web-based solution that automates and streamlines event management processes.
+Managing events using traditional or manual systems often results in inefficiencies, data mismanagement, and poor attendee engagement. Organizers usually rely on multiple tools for promotion, registration, ticketing, and communication, which creates a fragmented workflow.
 
-This project is developed as part of the Aptech eProject to simulate a real-world application using modern web technologies.
+Eventive solves these challenges by offering a centralized, web-based platform that enables seamless interaction between event organizers and attendees, ensuring better organization, transparency, and user experience.
 
 ❗ Problem Statement
 
-Traditional event management systems face several limitations:
+Existing event management systems and manual processes suffer from:
 
-Decentralized event and attendee data
+Decentralized and scattered information
 
-Manual and time-consuming registration processes
+Time-consuming manual registration
 
-Limited event promotion reach
+Limited promotional reach
 
-Poor communication with attendees
+Ineffective communication with attendees
 
 Complex ticketing and payment handling
 
-These issues result in inefficiency, higher chances of error, and a poor overall experience.
+Higher chances of human error
+
+These limitations make event management inefficient and difficult to scale.
 
 ✅ Proposed Solution – Eventive
 
-Eventive is a centralized platform that offers:
+Eventive is an all-in-one event management platform that streamlines event planning and execution.
 
 👤 User Roles
-
 Organizers
 
-Create and manage events
+Create, publish, and manage events
 
-Monitor registrations and revenue
+Track registrations and revenue
 
-Communicate with attendees
+Communicate with attendees efficiently
 
 Attendees
 
 Browse and discover events
 
-Register and make secure payments
+Register and purchase tickets securely
 
-Manage bookings and event participation
+Manage event bookings in one place
 
 🌟 Key Features
 
-Event creation & management
+Event creation and management
 
-Secure registration & ticketing
+Online registration and ticketing
+
+Secure payment handling
 
 Real-time dashboards
 
 Automated notifications
 
-Integrated payment handling
-
 Improved attendee engagement
+
+Centralized data management
 
 🏗 System Architecture
 
-Eventive follows a modern MERN-based architecture:
+The application is built using a modern MERN-based architecture:
 
 Frontend: React.js
 
@@ -70,7 +75,7 @@ Backend: Node.js with Express.js
 
 Database: MongoDB
 
-Authentication: Secure role-based access
+Authentication: Role-based access control
 
 Version Control: Git & GitHub
 
@@ -79,7 +84,7 @@ Software Requirements
 
 Operating System: Windows 10/11, macOS, or Linux
 
-Web Browser: Chrome, Firefox, Safari, Edge (latest versions)
+Web Browser: Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge (latest versions)
 
 Database: MongoDB
 
@@ -94,50 +99,3 @@ Visual Studio Code
 Git
 
 npm / yarn
-
-📋 Task Sheet
-#	Task	Team Member	Status
-1	Database Design & Management	Aiman Shah	✅ Completed
-2	UI / UX Design	Madiha	✅ Completed
-3	Frontend & Backend Development	Faraz Sheikh & Unsa Malik	✅ Completed
-4	Documentation & Reporting	Farzana	✅ Completed
-5	Finalization & Testing	All Members	✅ Completed
-🖼 Screenshots
-Admin Panel
-
-(Screenshots can be added here)
-
-👥 Team Members
-
-Aiman Shah
-
-Madiha
-
-Unsa Malik
-
-Farzana
-
-Faraz Sheikh
-
-🎓 Faculty Members
-
-Teacher: Miss Summaiya Aslam
-
-Coordinator: Miss Hafsa Qadir
-
-Batch: 2308f2
-
-🙏 Acknowledgement
-
-We are thankful to Almighty Allah for granting us the strength and guidance to complete this eProject successfully.
-
-We express our sincere gratitude to Miss Summaiya Aslam and Aptech Institute for providing us with the opportunity to work on this project. Their guidance and support helped us gain practical knowledge and real-world development experience.
-
-📂 Project Status
-
-✅ Completed
-📌 Submitted as Aptech eProject
-
-📜 License
-
-This project is developed for educational purposes only.
